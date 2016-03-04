@@ -13,6 +13,10 @@
 git checkout -b <new_branch_name>
 ```
 - Make sure all tests are passing and commit your changes on the feature branch
+- Push changes to your fork
+```sh
+git push origin <branch_name>
+```
 - Submit a [pull request]
 
 ### Sync Fork
