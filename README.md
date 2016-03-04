@@ -2,7 +2,7 @@
 
 Guides for getting things done, programming well, and programming in style.
 
->> Every line of code should appear to be written by a single person, no matter the number of contributors.
+> Every line of code should appear to be written by a single person, no matter the number of contributors.
 
 - [General](/general)
 - [Git](/git)
