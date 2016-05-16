@@ -40,6 +40,7 @@ git pull upstream master
 
 ## Further Reading
 - https://help.github.com/categories/collaborating-on-projects-using-pull-requests/
+- http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 - https://sethrobertson.github.io/GitBestPractices/
 - https://github.com/thoughtbot/guides/tree/master/protocol/git
 - https://github.com/thoughtbot/guides/tree/master/style/git
