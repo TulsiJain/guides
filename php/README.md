@@ -26,7 +26,11 @@ See [coding style].
 ## Testing
 See [testing].
 
+## Documentation
+See [documentation].
+
 [pure functions]: https://en.wikipedia.org/wiki/Pure_function
 [dependency injection]: /php/di.md
 [coding style]: /php/cs.md
 [testing]: /php/testing.md
+[documentation]: /php/doc.md
